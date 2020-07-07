@@ -1,0 +1,39 @@
+{
+  "name": "emptyapp1_dev_7170",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {"mobx-state-tree": "^3.14.1",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.2.0",
+    "react-redux": "^7.1.1",
+    "vanilla.js": "^0.0.12",
+    "webpack": "4.28.3",
+    "jest": "23.6.0",
+    "eslint": "5.12.0",
+     
+
+    "node-sass": "^4.12.0",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "babel-loader": "8.0.5",
+    "react-toastify": "^5.4.0",
+    "classnames": "^2.2.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
